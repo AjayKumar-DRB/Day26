@@ -1,0 +1,13 @@
+.nav-tab{
+    color: #535B62;
+    font-size: 14px;
+    font-weight: 700;
+}
+
+.nav-tab:hover, .nav-tab::selection, .nav-tab:active, .nav-tab:focus{
+    color: #0aaa01;
+}
+
+.active{
+    color: #0aaa01;
+}

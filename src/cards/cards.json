@@ -1,0 +1,122 @@
+[
+    {
+        "img":  "https://dummyimage.com/450x300/dee2e6/6c757d.jpg",
+        "title":"Web Development Roadmap for Beginners 2023",
+        "description": "Web Development is a booming, high-paying, and indeed promising career in the IT industry",
+        "category": "FSD"
+    },
+    {
+        "img":  "https://dummyimage.com/450x300/dee2e6/6c757d.jpg",
+        "title":"Data Science vs. Machine Learning: What every elite coder needs to know",
+        "description": "As the world becomes increasingly data-driven, the demand for professionals who can analyze and interpret",
+        "category": "DS"
+    },
+    {
+        "img":  "https://dummyimage.com/450x300/dee2e6/6c757d.jpg",
+        "title":"Cybersecurity Vs Ethical Hacking: Top 10 Differences",
+        "description": "Cybersecurity & Ethical hacking and have been key in making sure that our data online",
+        "category": "CS"
+    },
+    {
+        "img":  "https://dummyimage.com/450x300/dee2e6/6c757d.jpg",
+        "title":"What is Cybersecurity? Importance and its uses & the growing challenges in 2023!",
+        "description": "Look around today, you will witness that we are more reliant on technology and devices",
+        "category": "CS"
+    },
+    {
+        "img":  "https://dummyimage.com/450x300/dee2e6/6c757d.jpg",
+        "title":"Product-based Company Vs Service-based Company: Which is Best Choice?",
+        "description": "Deciding between joining a product-based company vs a service-based company can be pretty challenging when",
+        "category": "Career"
+    },
+    {
+        "img":  "https://dummyimage.com/450x300/dee2e6/6c757d.jpg",
+        "title":"How does Apache work? A detailed introduction to Apache",
+        "description": "Apache is the most widely used web server in the world, powering over 40% of",
+        "category": "FSD"
+    },
+    {
+        "img":  "https://dummyimage.com/450x300/dee2e6/6c757d.jpg",
+        "title":"How to become a Data Scientist after Mechanical Engineering?",
+        "description": "Switching careers can sound quite intimidating especially when you’re a mechanical engineer by educational qualification,",
+        "category": "DS"
+    },
+    {
+        "img":  "https://dummyimage.com/450x300/dee2e6/6c757d.jpg",
+        "title":"Top Product-Based Companies for Digital Marketers",
+        "description": "Selecting the right launchpad for a successful career in digital marketing isn’t just about joining",
+        "category": "Career"
+    },
+    {
+        "img":  "https://dummyimage.com/450x300/dee2e6/6c757d.jpg",
+        "title":"How much does an Entry-level Data Scientist make at MAANG Company? (Formerly ‘FAANG’)",
+        "description": "Data Science is a booming field and it’s obviously relevant to check out and compare",
+        "category": "DS"
+    },
+    {
+        "img":  "https://dummyimage.com/450x300/dee2e6/6c757d.jpg",
+        "title":"8 Different Types of Cybersecurity and Threats Involved",
+        "description": "Cybersecurity refers to the protection of devices, processes, infrastructure, and assets of the organization from",
+        "category": "CS"
+    },
+    {
+        "img":  "https://dummyimage.com/450x300/dee2e6/6c757d.jpg",
+        "title":"Top Product-Based Companies for Cloud Engineers 2023",
+        "description": "In the fast-paced world of technology, cloud engineers are in high demand, driving innovation and",
+        "category": "Career"
+    },
+    {
+        "img":  "https://dummyimage.com/450x300/dee2e6/6c757d.jpg",
+        "title":"Salary of a NodeJs Developer in Popular 10 Companies in India",
+        "description": "NodeJs developers stand among the high-paid developers in India. The salary of a NodeJS developer",
+        "category": "FSD"
+    },
+    {
+        "img":  "https://dummyimage.com/450x300/dee2e6/6c757d.jpg",
+        "title":"5 Tips to negotiate your salary as a Full Stack Developer",
+        "description": "Negotiation is such an important life skill. We are negotiating constantly, whether it’s for salary,",
+        "category": "FSD"
+    },
+    {
+        "img":  "https://dummyimage.com/450x300/dee2e6/6c757d.jpg",
+        "title":"Neural Network Skills to Succeed in Data Science",
+        "description": "If you’re here, then you already understand what a huge grasp data scientists have in",
+        "category": "DS"
+    },
+    {
+        "img":  "https://dummyimage.com/450x300/dee2e6/6c757d.jpg",
+        "title":"6 Mechanical Engineering Webinars and Workshops That You Should Know",
+        "description": "Mechanical engineering is an exciting field that brings creative ideas to life, be it small",
+        "category": "Career"
+    },
+    {
+        "img":  "https://dummyimage.com/450x300/dee2e6/6c757d.jpg",
+        "title":"Is coding required for cybersecurity? If yes, how crucial is coding for cybersecurity?",
+        "description": "Many people ask how important is coding for cybersecurity, and the lawyerly answer is: Well,",
+        "category": "CS"
+    },
+    {
+        "img":  "https://dummyimage.com/450x300/dee2e6/6c757d.jpg",
+        "title":"Cybersecurity Jobs: Ultimate Cybersecurity Career Roadmap",
+        "description": "According to the job statistics of 2020, cybersecurity jobs were among the top 15 emerging",
+        "category": "CS"
+    },
+    {
+        "img":  "https://dummyimage.com/450x300/dee2e6/6c757d.jpg",
+        "title":"Top Product-Based Companies for Data Scientists in 2023",
+        "description": "We all know about the kind of buzz surrounding data science right now, it is",
+        "category": "Career"
+    },
+    {
+        "img":  "https://dummyimage.com/450x300/dee2e6/6c757d.jpg",
+        "title":"Full Stack Developer: Discover the Fastest Route to becoming one ",
+        "description": "Full stack developers are an integral part of all organizations, especially product-based companies. So much",
+        "category": "FSD"
+    },
+    {
+        "img":  "https://dummyimage.com/450x300/dee2e6/6c757d.jpg",
+        "title":"PyTorch vs Keras: Which ML framework is the clear winner for your first Deep Learning Model?",
+        "description": "Deep Learning is the hottest buzzword in tech train, for now, and it looks like",
+        "category": "DS"
+    }
+]
